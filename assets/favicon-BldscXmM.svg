@@ -1,0 +1,17 @@
+    <svg id='svg' xmlns="http://www.w3.org/2000/svg" width="auto" height= "auto">
+      <style>
+            .R {
+                font-size: 40px;
+                font-family:Brush Script MT;
+                font-weight: 900;
+                fill: #DCA100;
+
+            }
+
+            .shape {
+                fill: #F9EFE4;
+            }
+        </style>
+        <circle cx="15" cy="15" r="15" class="shape"/>
+        <text x="2" y="28" class="R">D</text>
+    </svg>
